@@ -15,5 +15,12 @@ Using `pytrends` this Jupyter Notebook scrapes trends in Google Searches that pe
 * Regional Interest graph
 * Interest over time graph
 * Related Queries graph by relevance
+
+## Previews
+<img src="https://github.com/hamdivazim/GoogleTrendsAnalyser/raw/main/preview.png">
+<img src="https://github.com/hamdivazim/GoogleTrendsAnalyser/raw/main/preview2.png">
+<img src="https://github.com/hamdivazim/GoogleTrendsAnalyser/raw/main/preview3.png">
+
+
 ## License
 GoogleTrendsAnalyser is licensed by Hamd Waseem under the <a href="https://github.com/hamdivazim/GoogleTrendsAnalyser/blob/main/LICENSE"> Apache License 2.0</a>.
